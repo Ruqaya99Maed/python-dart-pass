@@ -22,7 +22,7 @@ class Dog extends Animal {
   }
   @override
   void printSound(){
-    print('The Animal Sound is meoo');
+    print('The Animal Sound is yelp');
   }
 
 }
@@ -33,7 +33,7 @@ class Cow extends Animal {
   }
   @override
   void printSound() {
-    print('The Animal Sound is meoo');
+    print('The Animal Sound is neigh');
   }
 }
 void main() {
