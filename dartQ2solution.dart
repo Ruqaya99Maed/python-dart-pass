@@ -1,3 +1,4 @@
+/*can be solution also in python in file animal.py*/
 abstract class Animal{
 
   void printName();
@@ -49,3 +50,4 @@ void main() {
   ncow.printName();
   ncow.printSound();
 }
+
